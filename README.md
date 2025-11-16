@@ -1,17 +1,25 @@
-# Crypto Daily Gainers and Losers Curator
-I created this simple script that scraps top 20 gainers and losers using CoinGecko API and provide output in modern, simple bubblistic UI. 
-# Demo
+# The Crypto Daily Gainers and Losers Curator tool is a simple Python script that scans through CoinGecko and provides you live token performance data in a modern, simple, and bubblistic UI. 
 
-# Featues
+It requires no customization; just run the code.
+
+# Features
+
+-Live data
+-Modern UI
+-Super fast
+-Responsive
+-Lightweight
 
 # How to Use
 
+-Install Pydroid from Playstore
+
+-Import your 
+
 # Contribute
 
-This is open-source, you can contribute too.
-
-Let's join hands.
+This is open-source; you can contribute too.
 
 Regards,
 
-Abba Abdullahi Garba (Trader Abba).
+Trader Abba.
