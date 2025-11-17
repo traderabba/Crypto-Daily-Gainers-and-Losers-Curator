@@ -31,4 +31,4 @@ This is open-source; you can contribute too.
 
 Regards,
 
-[X @TraderAbba.](https://x.com/traderabba)
+Trader Abba. 
